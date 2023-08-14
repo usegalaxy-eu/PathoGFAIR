@@ -16,4 +16,7 @@ In this repository we have included 4 different Jupyter notebooks that extract t
 
 
 The inputs to these notebooks are only the history ID where the workflows finished running in, and the Metadata tabular of the samples.
+<<<<<<< HEAD
 
+=======
+>>>>>>> 7d600cf98ad1e2cebd60057ea20a22cd126a5725
