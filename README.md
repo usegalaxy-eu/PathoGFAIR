@@ -14,8 +14,5 @@ We have created 5 Galaxy workflows and published them on the [IWC](https://docks
 
 In this repository we have included 4 different Jupyter notebooks that extract the output tabulars of the identified VFs and AMR genes created after running the **Gene-based Pathogeneic Identification workflow** in a given Galaxy history and create different visualization plots other than the ones created in the **All Samples Analysis workflow** to give the user more ideas and options to analyse their samples and generate more visualization figures using more plotting existing libraries. 
 
-<<<<<<< HEAD
+
 The inputs to these notebooks are only the history ID where the workflows finished running in, and the Metadata tabular of the samples.
-=======
-The inputs to these notebooks are only the history ID where the workflows finished running in, and the Metadata tabular of the samples.
->>>>>>> 4c12aca0155a5b6285287c4b3313c31d967430cb
