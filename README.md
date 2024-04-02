@@ -4,7 +4,7 @@
 
 Welcome to the GitHub repository for the Foodborne Pathogen Detection and Tracking Project under the fund of [EOSC life industry call 2021](https://www.eosc-life.eu/industrycall/). This project aims to provide a comprehensive solution for the identification and tracking of (foodborne) pathogens using metagenomic (Nanopore) sequencing data. The workflows are developed using Galaxy, an open-source platform for FAIR data analysis.
 
-![plot](docs/figure/Fig1_complete_workflow.png)
+![plot](docs/figures/Fig1_complete_workflow.png)
 
 ## Project Structure
 
