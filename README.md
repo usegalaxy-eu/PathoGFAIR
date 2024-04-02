@@ -10,7 +10,7 @@ Welcome to the GitHub repository for the Foodborne Pathogen Detection and Tracki
 
 - **Workflows:** The core of this project consists of a series of Galaxy-based workflows collectively known as PathoGFAIR. These workflows are designed for processing Nanopore sequencing data, detecting pathogens, and tracking their presence across samples. Workflows are available via the Galaxy Intergalactic Workflow Comission [IWC](https://dockstore.org/organizations/iwc)
 
-	We have created 5 Galaxy workflows and published them on the [IWC](https://dockstore.org/organizations/iwc), where we analyze microbiome nanopore datasets and identify all possible pathogens and track them amoung all samples. The workflows are created to be scalable to any other type of sequencing technique as well as agnostic such that it can detect all possible pathogens without specifying any pathogen species or giving any information about the input samples to the workflows. The 5 workflows are:
+	PathoGFair consists of 5 workflows that are created to be scalable to any other type of sequencing technique as well as agnostic such that it can detect all possible pathogens without specifying any pathogen species or giving any information about the input samples to the workflows. The 5 workflows are:
 
 	- **Pre-processing**: where the quality controlling, reads trimming for quality retaining, host sequences removal and other contaminating sequences removal takes place
 	- **Taxonomy Profiling**: where taxonomy profiling take place identifying and visualizing our samples' community abundances down to the subspecies level
