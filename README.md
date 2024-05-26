@@ -58,6 +58,6 @@ The [Galaxy history](https://usegalaxy.eu/u/engy.nasr/h/biolytix-datasets-analys
 
 ## Citation
 
-If you use or refer to this project in your research, please cite the associated paper: [Paper Title].
+If you use or refer to this project in your research, please cite the associated paper: [PathoGFAIR: a series of FAIR and adaptable (meta)genomics workflows for (foodborne) pathogens detection and tracking].
 
 Feel free to contribute, open issues, or provide feedback.
