@@ -18,8 +18,6 @@ Welcome to the GitHub repository for the Foodborne Pathogen Detection and Tracki
 	- **Allele-based Pathogen Identification**: where we identify all the SNPs and variants and create the consensus sequences of all samples
 	- **PathoGFAIR Samples Aggregation and Visualisation**: where we visualize the outputs of the pathogens drawing a heatmap of all the found pathogenic genes for all samples,  phylogenetic trees relating samples together per common pathogenic genes found, and bar charts for important tabular outputs of previous workflows, e.g. number of identified SNPs and variants per sample, number of removed host reads and mapping depth and coverage.
 
-Workflows
-
 | Workflow Name | WorkflowHub | Dockstore | Galaxy Servers |
 |---------------|-------------|-----------|----------------|
 | Nanopore Preprocessing    | [Link](https://workflowhub.eu/workflows/456) | [Link](https://dockstore.org/workflows/456) | [European Galaxy Server](https://usegalaxy.eu/published/workflow?id=a705370bc2c13d5c), [American Galaxy Server](https://usegalaxy.org/published/workflow?id=e671ec98735c464e), [Australian Galaxy Server](https://usegalaxy.org.au/published/workflow?id=5affb9f3f9a4ac9c) |
