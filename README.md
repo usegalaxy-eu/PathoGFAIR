@@ -50,11 +50,11 @@ The [Galaxy history](https://usegalaxy.eu/u/engy.nasr/h/biolytix-datasets-analys
 
 ## Contributors
 
-- [Engy Nasr]
-- [Anna Henger]
-- [Björn Grüning]
-- [Paul Zierep]
-- [Bérénice Batut]
+- [Engy Nasr](https://orcid.org/0000-0001-9047-4215)
+- [Anna Henger]()
+- [Björn Grüning](https://orcid.org/0000-0002-3079-6586)
+- [Paul Zierep](https://orcid.org/0000-0003-2982-388X)
+- [Bérénice Batut](https://orcid.org/0000-0001-9852-1987)
 
 ## Citation
 
