@@ -1,4 +1,4 @@
-# PathoGFAIR: Galaxy FAIR and Adaptable Workflows for Pathogen Detection and Tracking
+# PathoGFAIR: Galaxy FAIR and Adaptable Workflows for Pathogen Detection, Tracking and Samples Comparison
 
 ## Overview
 
@@ -20,10 +20,10 @@ Welcome to the GitHub repository for the Foodborne Pathogen Detection and Tracki
 
 | Workflow Name | WorkflowHub | Dockstore | Galaxy Servers |
 |---------------|-------------|-----------|----------------|
-| Nanopore **Preprocessing**    | [Link]() | [Link]() | [European Galaxy Server](https://usegalaxy.eu/published/workflow?id=a705370bc2c13d5c), [American Galaxy Server](), [Australian Galaxy Server]() |
-| **Taxonomy Profiling** and Visualization with Krona    | [Link]() | [Link]() | [European Galaxy Server](https://usegalaxy.eu/published/workflow?id=10101558b211a782), [American Galaxy Server](), [Australian Galaxy Server]() |
-| **Gene-based Pathogen Identification**    | [Link]() | [Link]() | [European Galaxy Server](https://usegalaxy.eu/published/workflow?id=585c21b7b1d864fc), [American Galaxy Server](), [Australian Galaxy Server]() |
-| **Allele-based Pathogen Identification**    | [Link]() | [Link]() | [European Galaxy Server](https://usegalaxy.eu/published/workflow?id=09c7069ae409c362), [American Galaxy Server](), [Australian Galaxy Server]() |
+| Nanopore **Preprocessing**    | [Link]() | [Link]() | [European Galaxy Server](https://usegalaxy.eu/published/workflow?id=a705370bc2c13d5c), [American Galaxy Server](https://usegalaxy.org/published/workflow?id=574e42683dc3961b), [Australian Galaxy Server](https://usegalaxy.org.au/published/workflow?id=25d52afddaa3451b) |
+| **Taxonomy Profiling** and Visualization with Krona    | [Link]() | [Link]() | [European Galaxy Server](https://usegalaxy.eu/published/workflow?id=10101558b211a782), [American Galaxy Server](https://usegalaxy.org/published/workflow?id=8f5904693b5f74f4), [Australian Galaxy Server](https://usegalaxy.org.au/published/workflow?id=d9ba165e6ae55417) |
+| **Gene-based Pathogen Identification**    | [Link]() | [Link]() | [European Galaxy Server](https://usegalaxy.eu/published/workflow?id=585c21b7b1d864fc), [American Galaxy Server](https://usegalaxy.org/published/workflow?id=cce88bc57b180d09), [Australian Galaxy Server](https://usegalaxy.org.au/published/workflow?id=ef8c22c2525063a2) |
+| **Allele-based Pathogen Identification**    | [Link]() | [Link]() | [European Galaxy Server](https://usegalaxy.eu/published/workflow?id=09c7069ae409c362), [American Galaxy Server](https://usegalaxy.org/published/workflow?id=38911ba6f66d80f6), [Australian Galaxy Server](https://usegalaxy.org.au/published/workflow?id=244ea5e94237ebad) |
 | Pathogen Detection **PathoGFAIR Samples Aggregation and Visualisation**    | [Link]() | [Link]() | [European Galaxy Server](https://usegalaxy.eu/published/workflow?id=376119528377a3ae), [American Galaxy Server](), [Australian Galaxy Server]()|
 | PathoGFAIR 5in1 Workflow   | [Link]() | [Link]() | [European Galaxy Server](https://usegalaxy.eu/published/workflow?id=0dce37adb369492c) |
 
