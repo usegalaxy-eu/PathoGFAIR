@@ -6,6 +6,17 @@ Welcome to the GitHub repository for the Foodborne Pathogen Detection and Tracki
 
 ![plot](docs/figures/Fig1_complete_workflow.png)
 
+## How to find PathoGFAIR Workflows
+
+| Workflow Name | WorkflowHub | Dockstore | Galaxy Servers |
+|---------------|-------------|-----------|----------------|
+| Nanopore **Preprocessing**    | [Link]() | [Link]() | [European Galaxy Server](https://usegalaxy.eu/published/workflow?id=a705370bc2c13d5c), [American Galaxy Server](https://usegalaxy.org/published/workflow?id=574e42683dc3961b), [Australian Galaxy Server](https://usegalaxy.org.au/published/workflow?id=25d52afddaa3451b) |
+| **Taxonomy Profiling** and Visualization with Krona    | [Link]() | [Link]() | [European Galaxy Server](https://usegalaxy.eu/published/workflow?id=10101558b211a782), [American Galaxy Server](https://usegalaxy.org/published/workflow?id=8f5904693b5f74f4), [Australian Galaxy Server](https://usegalaxy.org.au/published/workflow?id=d9ba165e6ae55417) |
+| **Gene-based Pathogen Identification**    | [Link]() | [Link]() | [European Galaxy Server](https://usegalaxy.eu/published/workflow?id=585c21b7b1d864fc), [American Galaxy Server](https://usegalaxy.org/published/workflow?id=cce88bc57b180d09), [Australian Galaxy Server](https://usegalaxy.org.au/published/workflow?id=ef8c22c2525063a2) |
+| **Allele-based Pathogen Identification**    | [Link]() | [Link]() | [European Galaxy Server](https://usegalaxy.eu/published/workflow?id=09c7069ae409c362), [American Galaxy Server](https://usegalaxy.org/published/workflow?id=38911ba6f66d80f6), [Australian Galaxy Server](https://usegalaxy.org.au/published/workflow?id=244ea5e94237ebad) |
+| Pathogen Detection **PathoGFAIR Samples Aggregation and Visualisation**    | [Link]() | [Link]() | [European Galaxy Server](https://usegalaxy.eu/published/workflow?id=376119528377a3ae), [American Galaxy Server](), [Australian Galaxy Server]()|
+| PathoGFAIR 5in1 Workflow   | [Link]() | [Link]() | [European Galaxy Server](https://usegalaxy.eu/published/workflow?id=0dce37adb369492c) |
+
 ## Project Structure
 
 - **Workflows:** The core of this project consists of a series of Galaxy-based workflows collectively known as PathoGFAIR. These workflows are designed for processing Nanopore sequencing data, detecting pathogens, and tracking their presence across samples. Workflows are available via the Galaxy Intergalactic Workflow Comission [IWC](https://dockstore.org/organizations/iwc)
@@ -18,15 +29,6 @@ Welcome to the GitHub repository for the Foodborne Pathogen Detection and Tracki
 	- **Allele-based Pathogen Identification**: where we identify all the SNPs and variants and create the consensus sequences of all samples
 	- **PathoGFAIR Samples Aggregation and Visualisation**: where we visualize the outputs of the pathogens drawing a heatmap of all the found pathogenic genes for all samples,  phylogenetic trees relating samples together per common pathogenic genes found, and bar charts for important tabular outputs of previous workflows, e.g. number of identified SNPs and variants per sample, number of removed host reads and mapping depth and coverage.
 
-| Workflow Name | WorkflowHub | Dockstore | Galaxy Servers |
-|---------------|-------------|-----------|----------------|
-| Nanopore **Preprocessing**    | [Link]() | [Link]() | [European Galaxy Server](https://usegalaxy.eu/published/workflow?id=a705370bc2c13d5c), [American Galaxy Server](https://usegalaxy.org/published/workflow?id=574e42683dc3961b), [Australian Galaxy Server](https://usegalaxy.org.au/published/workflow?id=25d52afddaa3451b) |
-| **Taxonomy Profiling** and Visualization with Krona    | [Link]() | [Link]() | [European Galaxy Server](https://usegalaxy.eu/published/workflow?id=10101558b211a782), [American Galaxy Server](https://usegalaxy.org/published/workflow?id=8f5904693b5f74f4), [Australian Galaxy Server](https://usegalaxy.org.au/published/workflow?id=d9ba165e6ae55417) |
-| **Gene-based Pathogen Identification**    | [Link]() | [Link]() | [European Galaxy Server](https://usegalaxy.eu/published/workflow?id=585c21b7b1d864fc), [American Galaxy Server](https://usegalaxy.org/published/workflow?id=cce88bc57b180d09), [Australian Galaxy Server](https://usegalaxy.org.au/published/workflow?id=ef8c22c2525063a2) |
-| **Allele-based Pathogen Identification**    | [Link]() | [Link]() | [European Galaxy Server](https://usegalaxy.eu/published/workflow?id=09c7069ae409c362), [American Galaxy Server](https://usegalaxy.org/published/workflow?id=38911ba6f66d80f6), [Australian Galaxy Server](https://usegalaxy.org.au/published/workflow?id=244ea5e94237ebad) |
-| Pathogen Detection **PathoGFAIR Samples Aggregation and Visualisation**    | [Link]() | [Link]() | [European Galaxy Server](https://usegalaxy.eu/published/workflow?id=376119528377a3ae), [American Galaxy Server](), [Australian Galaxy Server]()|
-| PathoGFAIR 5in1 Workflow   | [Link]() | [Link]() | [European Galaxy Server](https://usegalaxy.eu/published/workflow?id=0dce37adb369492c) |
-
 - **Training Material:** To assist users in understanding and using the workflows, we have provided extensive training material. This includes tutorials, documentation, and guidelines available via the Galaxy Training Network [GTN](https://bit.ly/pathogen-tuto).
 
 - **Notebooks:** In this repository, you'll find Jupyter notebooks that utilize the output generated by the workflows. These notebooks are designed for reproducing paper-associated figures and allow users to produce similar extra figures other than the ones already included in workflow 2 and 5. The notebook is also designed to run on any Galaxy instance using Jupytool. 
@@ -38,6 +40,7 @@ Welcome to the GitHub repository for the Foodborne Pathogen Detection and Tracki
 - **Data Preparation:** Ensure your data is in the correct format and follows the specified guidelines. Please take a look at the training material for details on input requirements.
 
 - **Workflow Execution:** Import the PathoGFAIR workflows into your Galaxy instance and follow the step-by-step instructions provided in the associated training material to execute the workflows on your data.
+
 
 ## Repository Contents
 
@@ -55,7 +58,6 @@ Welcome to the GitHub repository for the Foodborne Pathogen Detection and Tracki
 ## Galaxy History
 
 The [Galaxy history](https://usegalaxy.eu/u/engy.nasr/h/biolytix-datasets-analysis) includes the output of running PathoGFAIR workflows on 46 samples, sampled and sequenced by [Biolytix](https://www.biolytix.ch/en/).
-
 
 ## Contributors
 
