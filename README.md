@@ -10,12 +10,12 @@ Welcome to the GitHub repository for the Foodborne Pathogen Detection and Tracki
 
 | Workflow Name | WorkflowHub | Dockstore | Galaxy Servers |
 |---------------|-------------|-----------|----------------|
-| Nanopore **Preprocessing**    | [Link](https://workflowhub.eu/workflows/1061) | [Link](https://dockstore.org/workflows/github.com/iwc-workflows/nanopore-pre-processing/main) | [European Galaxy Server](https://usegalaxy.eu/published/workflow?id=a705370bc2c13d5c), [American Galaxy Server](https://usegalaxy.org/published/workflow?id=574e42683dc3961b), [Australian Galaxy Server](https://usegalaxy.org.au/published/workflow?id=25d52afddaa3451b) |
-| **Taxonomy Profiling** and Visualization with Krona    | [Link](https://workflowhub.eu/workflows/1059) | [Link](https://dockstore.org/workflows/github.com/iwc-workflows/taxonomy-profiling-and-visualization-with-krona/main) | [European Galaxy Server](https://usegalaxy.eu/published/workflow?id=10101558b211a782), [American Galaxy Server](https://usegalaxy.org/published/workflow?id=8f5904693b5f74f4), [Australian Galaxy Server](https://usegalaxy.org.au/published/workflow?id=d9ba165e6ae55417) |
-| **Gene-based Pathogen Identification**    | [Link](https://workflowhub.eu/workflows/1062) | [Link](https://dockstore.org/workflows/github.com/iwc-workflows/gene-based-pathogen-identification/main) | [European Galaxy Server](https://usegalaxy.eu/published/workflow?id=585c21b7b1d864fc), [American Galaxy Server](https://usegalaxy.org/published/workflow?id=cce88bc57b180d09), [Australian Galaxy Server](https://usegalaxy.org.au/published/workflow?id=ef8c22c2525063a2) |
-| **Allele-based Pathogen Identification**    | [Link](https://workflowhub.eu/workflows/1063) | [Link](https://dockstore.org/workflows/github.com/iwc-workflows/allele-based-pathogen-identification/main) | [European Galaxy Server](https://usegalaxy.eu/published/workflow?id=09c7069ae409c362), [American Galaxy Server](https://usegalaxy.org/published/workflow?id=38911ba6f66d80f6), [Australian Galaxy Server](https://usegalaxy.org.au/published/workflow?id=244ea5e94237ebad) |
-| Pathogen Detection **PathoGFAIR Samples Aggregation and Visualisation**    | [Link](https://workflowhub.eu/workflows/1060) | [Link](https://dockstore.org/workflows/github.com/iwc-workflows/pathogen-detection-pathogfair-samples-aggregation-and-visualisation/main) | [European Galaxy Server](https://usegalaxy.eu/published/workflow?id=376119528377a3ae), [American Galaxy Server](), [Australian Galaxy Server]()|
-| PathoGFAIR 5in1 Workflow   | [Link]() | [Link]() | [European Galaxy Server](https://usegalaxy.eu/published/workflow?id=0dce37adb369492c) |
+| Nanopore **Preprocessing**  (v 0.1)  | [ID 1061 v 0.1](https://workflowhub.eu/workflows/1061) | [link](https://dockstore.org/workflows/github.com/iwc-workflows/nanopore-pre-processing/main) | [European Galaxy Server](https://usegalaxy.eu/published/workflow?id=a705370bc2c13d5c), [United States Galaxy Server](https://usegalaxy.org/published/workflow?id=574e42683dc3961b), [Australian Galaxy Server](https://usegalaxy.org.au/published/workflow?id=25d52afddaa3451b) |
+| **Taxonomy Profiling** and Visualization with Krona  (v 0.1)  | [Link](https://workflowhub.eu/workflows/1059) | [Link](https://dockstore.org/workflows/github.com/iwc-workflows/taxonomy-profiling-and-visualization-with-krona/main) | [European Galaxy Server](https://usegalaxy.eu/published/workflow?id=10101558b211a782), [United States Galaxy Server](https://usegalaxy.org/published/workflow?id=8f5904693b5f74f4), [Australian Galaxy Server](https://usegalaxy.org.au/published/workflow?id=d9ba165e6ae55417) |
+| **Gene-based Pathogen Identification**  (v 0.1)  | [Link](https://workflowhub.eu/workflows/1062) | [Link](https://dockstore.org/workflows/github.com/iwc-workflows/gene-based-pathogen-identification/main) | [European Galaxy Server](https://usegalaxy.eu/published/workflow?id=585c21b7b1d864fc), [United States Galaxy Server](https://usegalaxy.org/published/workflow?id=cce88bc57b180d09), [Australian Galaxy Server](https://usegalaxy.org.au/published/workflow?id=ef8c22c2525063a2) |
+| **Allele-based Pathogen Identification**  (v 0.1)  | [Link](https://workflowhub.eu/workflows/1063) | [Link](https://dockstore.org/workflows/github.com/iwc-workflows/allele-based-pathogen-identification/main) | [European Galaxy Server](https://usegalaxy.eu/published/workflow?id=09c7069ae409c362), [United States Galaxy Server](https://usegalaxy.org/published/workflow?id=38911ba6f66d80f6), [Australian Galaxy Server](https://usegalaxy.org.au/published/workflow?id=244ea5e94237ebad) |
+| Pathogen Detection **PathoGFAIR Samples Aggregation and Visualisation**  (v 0.1)  | [Link](https://workflowhub.eu/workflows/1060) | [Link](https://dockstore.org/workflows/github.com/iwc-workflows/pathogen-detection-pathogfair-samples-aggregation-and-visualisation/main) | [European Galaxy Server](https://usegalaxy.eu/published/workflow?id=376119528377a3ae), [United States Galaxy Server](), [Australian Galaxy Server]()|
+| PathoGFAIR 5in1 Workflow  (v 0.1)  | [Soon]() | [Soon]() | [European Galaxy Server](https://usegalaxy.eu/published/workflow?id=0dce37adb369492c) |
 
 ## Project Structure
 
@@ -25,7 +25,7 @@ Welcome to the GitHub repository for the Foodborne Pathogen Detection and Tracki
 
 	- **Preprocessing**: where the quality controlling, reads trimming for quality retaining, host sequences removal and other contaminating sequences removal take place
 	- **Taxonomy Profiling**: where taxonomy profiling takes place identifying and visualizing our samples' community abundances down to the subspecies level
-	- **Gene-based Pathogen Identification**: where we identify all possible pathogens by identifying all the Virulence factors (VFs) genes and their specific locations, we also indentify Antimicrobial resistance genes (AMRs) within the same workflow.
+	- **Gene-based Pathogen Identification**: where we identify all possible pathogens by identifying all the Virulence factors (VFs) genes and their specific locations, we also identify Antimicrobial resistance genes (AMRs) within the same workflow.
 	- **Allele-based Pathogen Identification**: where we identify all the SNPs and variants and create the consensus sequences of all samples
 	- **PathoGFAIR Samples Aggregation and Visualisation**: where we visualize the outputs of the pathogens drawing a heatmap of all the found pathogenic genes for all samples,  phylogenetic trees relating samples together per common pathogenic genes found, and bar charts for important tabular outputs of previous workflows, e.g. number of identified SNPs and variants per sample, number of removed host reads and mapping depth and coverage.
 
@@ -42,17 +42,17 @@ Welcome to the GitHub repository for the Foodborne Pathogen Detection and Tracki
 - **Workflow Execution:** Import the PathoGFAIR workflows into your Galaxy instance and follow the step-by-step instructions provided in the associated training material to execute the workflows on your data.
 
 
-## Repository Contents
+## [Repository](https://github.com/usegalaxy-eu/PathoGFAIR/tree/main) Contents
 
-- **Jupter notebooks:** The `bin` directory contains Jupyter notebooks for post-processing and visualization of workflow results.
+- **Jupter notebooks:** The [`bin`](https://github.com/usegalaxy-eu/PathoGFAIR/tree/main/bin) directory contains Jupyter notebooks for post-processing and visualization of workflow results.
 
-- **Workflows output datasets:** The `data` directory contains outputs of the workflows after running them on the paper-mentioned samples (BioProject PRJNA982679, BioProjects PRJNA942086 and PRJNA942088). The directory also includes the samples metadata.
+- **Workflows output datasets:** The [`data`](https://github.com/usegalaxy-eu/PathoGFAIR/tree/main/data/galaxy_inputs) directory contains outputs of the workflows after running them on the paper-mentioned samples (BioProject PRJNA982679, BioProjects PRJNA942086 and PRJNA942088). The directory also includes the samples metadata.
 
-- **Jupter notebooks results:** The `results` directory contains results after running the Jupyter notebooks on the workflows output datasets.
+- **Jupter notebooks results:** The [`results`](https://github.com/usegalaxy-eu/PathoGFAIR/tree/main/results) directory contains results after running the Jupyter notebooks on the workflows output datasets.
 
-- **Publication figures:** The `docs/figures` directory contains all figures mentioned in the paper.
+- **Publication figures:** The [`docs/figures`](https://github.com/usegalaxy-eu/PathoGFAIR/tree/main/docs/figures) directory contains all figures mentioned in the paper.
 
-- **Publication tables:** The `docs/tables` directory contains all tables mentioned in the paper.
+- **Publication tables:** The [`docs/tables`](https://github.com/usegalaxy-eu/PathoGFAIR/tree/main/docs/tables) directory contains all tables mentioned in the paper.
 
 
 ## Galaxy History
