@@ -2,14 +2,14 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="473.0386mm"
-   height="204.58284mm"
-   viewBox="0 0 473.0386 204.58285"
+   width="495.41849mm"
+   height="190.1274mm"
+   viewBox="0 0 495.41848 190.1274"
    version="1.1"
    id="svg5"
-   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
-   sodipodi:docname="Figure S5_Supplementary Marerial.svg"
-   inkscape:export-filename="/home/engynasr/Desktop/GitHub/Foodborne-Project-Data-Analysis/Paper Figures/Figure S5_Supplementary Material.png"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   sodipodi:docname="Supplementary_Figure_S5.svg"
+   inkscape:export-filename="Supplementary_Figure_S5.pdf"
    inkscape:export-xdpi="64.434486"
    inkscape:export-ydpi="64.434486"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
@@ -27,29 +27,36 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
      showgrid="true"
-     inkscape:zoom="0.70910507"
-     inkscape:cx="669.85841"
-     inkscape:cy="391.33834"
-     inkscape:window-width="1850"
-     inkscape:window-height="1016"
-     inkscape:window-x="70"
-     inkscape:window-y="27"
+     inkscape:zoom="0.4665165"
+     inkscape:cx="1371.87"
+     inkscape:cy="278.6611"
+     inkscape:window-width="1920"
+     inkscape:window-height="1043"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:current-layer="layer1"
      inkscape:pageshadow="2">
     <inkscape:grid
        type="xygrid"
        id="grid24428"
-       originx="-18.016382"
-       originy="-145.35975" />
+       originx="-19.603862"
+       originy="-151.0744" />
   </sodipodi:namedview>
   <defs
-     id="defs2" />
+     id="defs2">
+    <rect
+       x="901.20197"
+       y="828.03534"
+       width="1197.0579"
+       height="15.292163"
+       id="rect87243" />
+  </defs>
   <g
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(140.57246,-157.39198)">
+     transform="translate(138.98498,-163.10663)">
     <g
        id="g1892"
        transform="translate(28.504996,-0.85178684)">
@@ -723,232 +730,155 @@
        id="rect1151-3"
        width="8.175498"
        height="7.8147573"
-       x="234.11024"
+       x="233.05193"
        y="216.49901" />
     <rect
        style="fill:#1f77b3;fill-opacity:1;stroke-width:0.960001"
        id="rect1151-9-6"
        width="8.175498"
        height="7.8147573"
-       x="234.11024"
+       x="233.05193"
        y="224.50331" />
     <rect
        style="fill:#c4afd4;fill-opacity:1;stroke-width:0.960001"
        id="rect1151-9-0-7"
        width="8.175498"
        height="7.8147573"
-       x="234.11024"
+       x="233.05193"
        y="231.81032" />
     <rect
        style="fill:#fe7f0e;fill-opacity:1;stroke-width:0.960001"
        id="rect1151-9-0-8-5"
        width="8.175498"
        height="7.8147573"
-       x="234.11024"
+       x="233.05193"
        y="239.46921" />
     <rect
        style="fill:#97de89;fill-opacity:1;stroke-width:0.960001"
        id="rect1151-9-0-8-8-3"
        width="8.175498"
        height="7.8147573"
-       x="234.11024"
+       x="233.05193"
        y="254.94106" />
     <rect
        style="fill:#404040;fill-opacity:1;stroke-width:0.960001"
        id="rect1151-9-0-8-8-5-5"
        width="8.175498"
        height="7.8147573"
-       x="234.11024"
+       x="233.05193"
        y="262.8923" />
     <rect
        style="fill:#393b79;fill-opacity:1;stroke-width:0.960001"
        id="rect1151-9-0-8-8-5-0-6"
        width="8.175498"
        height="7.8147573"
-       x="234.11024"
+       x="233.05193"
        y="247.20413" />
     <text
        xml:space="preserve"
        style="font-weight:bold;font-size:3.52778px;font-family:Helvetica;-inkscape-font-specification:'Helvetica, Bold';fill:#393b79;fill-opacity:1;stroke-width:0.960001"
-       x="233.87564"
+       x="232.81732"
        y="214.49503"
        id="text4682-2"><tspan
          sodipodi:role="line"
          id="tspan4680-9"
          style="font-size:3.52778px;fill:#000000;stroke-width:0.96"
-         x="233.87564"
-         y="214.49503">Expected strain(s)</tspan></text>
+         x="232.81732"
+         y="214.49503">Expected pathogen</tspan></text>
     <rect
        style="fill:#8b564b;fill-opacity:1;stroke-width:0.960001"
        id="rect1151-96-1"
        width="8.175498"
        height="7.8147573"
-       x="234.11024"
+       x="233.05193"
        y="285.12912" />
     <rect
        style="fill:#feacab;fill-opacity:1;stroke-width:0.960001"
        id="rect1151-9-3-2"
        width="8.175498"
        height="7.8147573"
-       x="234.11024"
+       x="233.05193"
        y="277.42749" />
     <text
        xml:space="preserve"
        style="font-weight:bold;font-size:3.52778px;font-family:Helvetica;-inkscape-font-specification:'Helvetica, Bold';fill:#393b79;fill-opacity:1;stroke-width:0.960001"
-       x="233.83861"
+       x="232.78029"
        y="298.50409"
        id="text4682-8-7"><tspan
          sodipodi:role="line"
          id="tspan4680-5-0"
          style="font-size:3.52778px;fill:#000000;stroke-width:0.96"
-         x="233.83861"
+         x="232.78029"
          y="298.50409">Adaptive sampling during sequencing</tspan></text>
     <rect
        style="fill:#07a704;fill-opacity:1;stroke-width:0.960001"
        id="rect1151-6-9"
        width="8.175498"
        height="7.8147573"
-       x="234.11024"
+       x="233.05193"
        y="301.0293" />
     <rect
        style="fill:#5254a2;fill-opacity:1;stroke-width:0.960001"
        id="rect1151-9-1-3"
        width="8.175498"
        height="7.8147573"
-       x="234.11024"
+       x="233.05193"
        y="308.46494" />
     <text
        xml:space="preserve"
        style="font-weight:bold;font-size:3.52778px;font-family:Helvetica;-inkscape-font-specification:'Helvetica, Bold';fill:#393b79;fill-opacity:1;stroke-width:0.960001"
-       x="233.83154"
+       x="232.77322"
        y="275.03156"
        id="text4682-1-6"><tspan
          sodipodi:role="line"
          id="tspan4680-59-0"
          style="font-size:3.52778px;fill:#000000;stroke-width:0.96"
-         x="233.83154"
+         x="232.77322"
          y="275.03156">Incubation before DNA isolation</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777px;font-family:Helvetica;-inkscape-font-specification:Helvetica;fill:#333333;fill-opacity:1;stroke-width:0.960001"
-       x="243.89813"
+       x="242.83981"
        y="313.67615"
        id="text6101-6"><tspan
          sodipodi:role="line"
          id="tspan6099-2"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Helvetica;-inkscape-font-specification:Helvetica;fill:#333333;stroke-width:0.96"
-         x="243.89813"
+         x="242.83981"
          y="313.67615">Chicken not Excluded</tspan></text>
     <text
        xml:space="preserve"
        style="font-weight:bold;font-size:3.52777px;font-family:Helvetica;-inkscape-font-specification:'Helvetica, Bold';fill:#333333;fill-opacity:1;stroke-width:0.960001"
-       x="243.85228"
+       x="242.79396"
        y="307.1109"
        id="text6105-6"><tspan
          sodipodi:role="line"
          id="tspan6103-18"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Helvetica;-inkscape-font-specification:Helvetica;fill:#333333;stroke-width:0.96"
-         x="243.85228"
+         x="242.79396"
          y="307.1109">Chicken Excluded</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777px;font-family:Helvetica;-inkscape-font-specification:Helvetica;fill:#333333;fill-opacity:1;stroke-width:0.960001"
-       x="243.84874"
+       x="242.79042"
        y="283.06067"
        id="text6101-8-7"><tspan
          sodipodi:role="line"
          id="tspan6099-4-9"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Helvetica;-inkscape-font-specification:Helvetica;fill:#333333;stroke-width:0.96"
-         x="243.84874"
+         x="242.79042"
          y="283.06067">24h incubation</tspan></text>
     <text
        xml:space="preserve"
        style="font-weight:bold;font-size:3.52777px;font-family:Helvetica;-inkscape-font-specification:'Helvetica, Bold';fill:#333333;fill-opacity:1;stroke-width:0.960001"
-       x="243.89813"
+       x="242.83981"
        y="290.55923"
        id="text6105-8-2"><tspan
          sodipodi:role="line"
          id="tspan6103-1-0"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Helvetica;-inkscape-font-specification:Helvetica;fill:#333333;stroke-width:0.96"
-         x="243.89813"
+         x="242.83981"
          y="290.55923">1h incubation</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777px;font-family:Helvetica;-inkscape-font-specification:Helvetica;fill:#1a1a1a;fill-opacity:1;stroke-width:0.960001"
-       x="243.99692"
-       y="220.86177"
-       id="text11178-2"><tspan
-         sodipodi:role="line"
-         id="tspan11176-3"
-         style="stroke-width:0.96"
-         x="243.99692"
-         y="220.86177">Salmonella enterica subsp. Salamae</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777px;font-family:Helvetica;-inkscape-font-specification:Helvetica;fill:#1a1a1a;fill-opacity:1;stroke-width:0.960001"
-       x="243.99692"
-       y="229.43872"
-       id="text11178-3-7"><tspan
-         sodipodi:role="line"
-         id="tspan11176-1-5"
-         style="stroke-width:0.96"
-         x="243.99692"
-         y="229.43872">Salmonella enterica subsp. Houtenae</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777px;font-family:Helvetica;-inkscape-font-specification:Helvetica;fill:#1a1a1a;fill-opacity:1;stroke-width:0.960001"
-       x="243.99692"
-       y="236.64944"
-       id="text11265-9"><tspan
-         sodipodi:role="line"
-         id="tspan11263-2"
-         style="stroke-width:0.96"
-         x="243.99692"
-         y="236.64944">Salmonella enterica subsp. Enterica</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777px;font-family:Helvetica;-inkscape-font-specification:Helvetica;fill:#1a1a1a;fill-opacity:1;stroke-width:0.960001"
-       x="243.90166"
-       y="267.87488"
-       id="text11323-2"><tspan
-         sodipodi:role="line"
-         id="tspan11321-8"
-         style="stroke-width:0.96"
-         x="243.90166"
-         y="267.87488">Mix(5:5:5):5xS-Houtenea+5xS-Enterica+5xS-Salamae</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777px;font-family:Helvetica;-inkscape-font-specification:Helvetica;fill:#1a1a1a;fill-opacity:1;stroke-width:0.960001"
-       x="243.90166"
-       y="244.97987"
-       id="text11323-7-97"><tspan
-         sodipodi:role="line"
-         id="tspan11321-5-3"
-         style="stroke-width:0.96"
-         x="243.90166"
-         y="244.97987">Mix(1:10:1):1xS-Houtenea+10xS-Enterica+1xS-Salamae</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777px;font-family:Helvetica;-inkscape-font-specification:Helvetica;fill:#1a1a1a;fill-opacity:1;stroke-width:0.960001"
-       x="243.90166"
-       y="252.60661"
-       id="text11323-7-9-6"><tspan
-         sodipodi:role="line"
-         id="tspan11321-5-6-12"
-         style="stroke-width:0.96"
-         x="243.90166"
-         y="252.60661">Mix(10:1:1):10xS-Houtenea+1xS-Enterica+1xS-Salamae</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777px;font-family:Helvetica;-inkscape-font-specification:Helvetica;fill:#1a1a1a;fill-opacity:1;stroke-width:0.960001"
-       x="243.90166"
-       y="260.31805"
-       id="text11323-7-9-2-9"><tspan
-         sodipodi:role="line"
-         id="tspan11321-5-6-1-3"
-         style="stroke-width:0.96"
-         x="243.90166"
-         y="260.31805">Mix(1:1:10):1xS-Houtenea+1xS-Enterica+10xS-Salamae</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.52777px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#404040;fill-opacity:1;stroke-width:0.96;stroke-linecap:butt;stroke-linejoin:round"
@@ -960,7 +890,7 @@
          id="tspan69563"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';stroke-width:0.96"
          x="-221.39777"
-         y="82.337906">Expected strain(s)</tspan></text>
+         y="82.337906">Expected pathogen</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.52777px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#404040;fill-opacity:1;stroke-width:0.96;stroke-linecap:butt;stroke-linejoin:round"
@@ -988,25 +918,166 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.9389px;font-family:Helvetica;-inkscape-font-specification:'Helvetica Bold';fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.960001"
-       x="-362.10324"
-       y="-136.972"
+       x="-352.57809"
+       y="-133.26788"
        id="text11562"
        transform="rotate(-90)"><tspan
          sodipodi:role="line"
          id="tspan11560"
-         x="-362.10324"
-         y="-136.972"
+         x="-352.57809"
+         y="-133.26788"
          style="stroke-width:0.960001">AMR genes consensus sequences for without prior pathogen isolation samples</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.9389px;font-family:Helvetica;-inkscape-font-specification:'Helvetica Bold';fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.960001"
        x="14.077044"
-       y="352.1524"
+       y="350.03571"
        id="text12253-5"><tspan
          sodipodi:role="line"
          id="tspan12251-1"
          x="14.077044"
-         y="352.1524"
+         y="350.03571"
          style="stroke-width:0.960001">Evolutionary Distance</tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,-140.57246,157.39198)"
+       id="text87241"
+       style="font-style:italic;font-size:11.1133px;font-family:Helvetica;-inkscape-font-specification:'Helvetica Italic';text-align:end;white-space:pre;shape-inside:url(#rect87243);display:inline;fill:#000000;stroke-width:3.77953" />
+    <g
+       id="g62171"
+       transform="matrix(1.0821697,0,0,1.2086972,-115.4373,-7.034875)">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.08457px;font-family:Helvetica;-inkscape-font-specification:Helvetica;fill:#1a1a1a;fill-opacity:1;stroke-width:0.396193;stroke-linecap:butt;stroke-linejoin:round"
+         x="330.95721"
+         y="188.37766"
+         id="text11178"
+         transform="scale(0.99821348,1.0017897)"><tspan
+           sodipodi:role="line"
+           id="tspan11176"
+           style="font-size:3.08457px;stroke-width:0.396193"
+           x="330.95721"
+           y="188.37766"><tspan
+   style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.08457px;font-family:Helvetica;-inkscape-font-specification:'Helvetica Italic'"
+   id="tspan13267">Salmonella</tspan> <tspan
+   style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.08457px;font-family:Helvetica;-inkscape-font-specification:'Helvetica Italic'"
+   id="tspan13265">enterica</tspan> subsp.<tspan
+   style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.08457px;font-family:Helvetica;-inkscape-font-specification:'Helvetica Italic'"
+   id="tspan13271"> salamae</tspan></tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.08457px;font-family:Helvetica;-inkscape-font-specification:Helvetica;fill:#1a1a1a;fill-opacity:1;stroke-width:0.396193;stroke-linecap:butt;stroke-linejoin:round"
+         x="331.04956"
+         y="195.28072"
+         id="text11178-3"
+         transform="scale(0.99821348,1.0017897)"><tspan
+           sodipodi:role="line"
+           id="tspan11176-1"
+           style="font-size:3.08457px;stroke-width:0.396193"
+           x="331.04956"
+           y="195.28072"><tspan
+   style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.08457px;font-family:Helvetica;-inkscape-font-specification:'Helvetica Italic'"
+   id="tspan13273">Salmonella enterica</tspan> subsp. <tspan
+   style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.08457px;font-family:Helvetica;-inkscape-font-specification:'Helvetica Italic'"
+   id="tspan13275">houtenae</tspan></tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.08457px;font-family:Helvetica;-inkscape-font-specification:Helvetica;fill:#1a1a1a;fill-opacity:1;stroke-width:0.396193;stroke-linecap:butt;stroke-linejoin:round"
+         x="331.02802"
+         y="201.47781"
+         id="text11265"
+         transform="scale(0.99821348,1.0017897)"><tspan
+           sodipodi:role="line"
+           id="tspan11263"
+           style="font-size:3.08457px;stroke-width:0.396193"
+           x="331.02802"
+           y="201.47781"><tspan
+   style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.08457px;font-family:Helvetica;-inkscape-font-specification:'Helvetica Italic'"
+   id="tspan13277">Salmonella enterica</tspan> subsp.<tspan
+   style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.08457px;font-family:Helvetica;-inkscape-font-specification:'Helvetica Italic'"
+   id="tspan13279"> enterica</tspan></tspan></text>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:Helvetica;-inkscape-font-specification:Helvetica;fill:#1a1a1a;fill-opacity:1;stroke-width:0.45312;stroke-linecap:butt;stroke-linejoin:round"
+       x="256.54318"
+       y="253.53732"
+       id="text11323"
+       transform="scale(0.94452262,1.0587359)"><tspan
+         sodipodi:role="line"
+         id="tspan11321"
+         style="font-size:3.52778px;stroke-width:0.45312"
+         x="256.54318"
+         y="253.53732">Mix(5:5:5): <tspan
+   style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:Helvetica;-inkscape-font-specification:'Helvetica Italic';stroke-width:0.45312"
+   id="tspan13283">Salmonella enterica </tspan>subsp.5x<tspan
+   style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:Helvetica;-inkscape-font-specification:'Helvetica Italic';stroke-width:0.45312"
+   id="tspan13297">houtenea</tspan>+5x<tspan
+   style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:Helvetica;-inkscape-font-specification:'Helvetica Italic';stroke-width:0.45312"
+   id="tspan13299">enterica</tspan>+5x<tspan
+   style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:Helvetica;-inkscape-font-specification:'Helvetica Italic';stroke-width:0.45312"
+   id="tspan13301">salamae</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:Helvetica;-inkscape-font-specification:'Helvetica Italic';fill:#1a1a1a;fill-opacity:1;stroke-width:0.45312;stroke-linecap:butt;stroke-linejoin:round"
+       x="256.44989"
+       y="231.1362"
+       id="text11323-7"
+       transform="scale(0.94452262,1.0587359)"><tspan
+         sodipodi:role="line"
+         id="tspan11321-5"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:Helvetica;-inkscape-font-specification:'Helvetica Italic';stroke-width:0.45312"
+         x="256.44989"
+         y="231.1362"><tspan
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:Helvetica;-inkscape-font-specification:Helvetica;stroke-width:0.45312"
+   id="tspan13285">Mix(1:10:1): </tspan>Salmonella enterica<tspan
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:Helvetica;-inkscape-font-specification:Helvetica;stroke-width:0.45312"
+   id="tspan13287"> subsp.1x</tspan>houtenea<tspan
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:Helvetica;-inkscape-font-specification:Helvetica;stroke-width:0.45312"
+   id="tspan13295">+10x</tspan>enterica<tspan
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:Helvetica;-inkscape-font-specification:Helvetica;stroke-width:0.45312"
+   id="tspan13293">+1x</tspan>salamae</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:Helvetica;-inkscape-font-specification:Helvetica;fill:#1a1a1a;fill-opacity:1;stroke-width:0.45312;stroke-linecap:butt;stroke-linejoin:round"
+       x="256.60831"
+       y="238.6525"
+       id="text11323-7-9"
+       transform="scale(0.94452262,1.0587359)"><tspan
+         sodipodi:role="line"
+         id="tspan11321-5-6"
+         style="font-size:3.52778px;stroke-width:0.45312"
+         x="256.60831"
+         y="238.6525">Mix(10:1:1): <tspan
+   style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:Helvetica;-inkscape-font-specification:'Helvetica Italic';stroke-width:0.45312"
+   id="tspan33890">Salmonella enterica</tspan> subsp.10x<tspan
+   style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:Helvetica;-inkscape-font-specification:'Helvetica Italic';stroke-width:0.45312"
+   id="tspan33888">houtenea</tspan>+1x<tspan
+   style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:Helvetica;-inkscape-font-specification:'Helvetica Italic';stroke-width:0.45312"
+   id="tspan33886">enterica</tspan>+1x<tspan
+   style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:Helvetica;-inkscape-font-specification:'Helvetica Italic';stroke-width:0.45312"
+   id="tspan33884">salamae</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:Helvetica;-inkscape-font-specification:Helvetica;fill:#1a1a1a;fill-opacity:1;stroke-width:0.45312;stroke-linecap:butt;stroke-linejoin:round"
+       x="256.6391"
+       y="245.96535"
+       id="text11323-7-9-2"
+       transform="scale(0.94452262,1.0587359)"><tspan
+         sodipodi:role="line"
+         id="tspan11321-5-6-1"
+         style="font-size:3.52778px;stroke-width:0.45312"
+         x="256.6391"
+         y="245.96535">Mix(1:1:10): <tspan
+   style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:Helvetica;-inkscape-font-specification:'Helvetica Italic';stroke-width:0.45312"
+   id="tspan23588">Salmonella</tspan> <tspan
+   style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:Helvetica;-inkscape-font-specification:'Helvetica Italic';stroke-width:0.45312"
+   id="tspan23586">enterica</tspan> subsp.1x<tspan
+   style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:Helvetica;-inkscape-font-specification:'Helvetica Italic';stroke-width:0.45312"
+   id="tspan23590">houtenea</tspan>+1x<tspan
+   style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:Helvetica;-inkscape-font-specification:'Helvetica Italic';stroke-width:0.45312"
+   id="tspan23592">enterica</tspan>+10x<tspan
+   style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:Helvetica;-inkscape-font-specification:'Helvetica Italic';stroke-width:0.45312"
+   id="tspan23594">salamae</tspan></tspan></text>
   </g>
 </svg>
