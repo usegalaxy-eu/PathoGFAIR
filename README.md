@@ -121,7 +121,7 @@ By following these steps, you can replicate our benchmarking process and assess 
 ## Contributors
 
 - [Engy Nasr](https://orcid.org/0000-0001-9047-4215)
-- [Anna Henger](0009-0009-5853-8018)
+- [Anna Henger](https://orcid.org/0009-0009-5853-8018)
 - [Björn Grüning](https://orcid.org/0000-0002-3079-6586)
 - [Paul Zierep](https://orcid.org/0000-0003-2982-388X)
 - [Bérénice Batut](https://orcid.org/0000-0001-9852-1987)
