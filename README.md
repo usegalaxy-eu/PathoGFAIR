@@ -86,7 +86,7 @@ This section provides detailed instructions on replicating the PathoGFAIR benchm
 		- Local upload (our recommendation): Download the samples from our published [Galaxy history](https://usegalaxy.eu/u/engy.nasr/h/biolytix-datasets-analysis) and upload them.
 		- Online upload: Use the NCBI repository PRJNA982679.
 	4. Upload or Enter Metadata:
-		Metadata fields we included are: host [Chicken], Ct value, sampling date, location, and nucleotide type [DNA], which are available in our metadata table in [`data/benchmark`](https://github.com/usegalaxy-eu/PathoGFAIR/tree/main/data/galaxy_inputs/benchmark/PathoGFAIR_benchmark_Samples_metadata.tsv).
+		Metadata fields we included are: host [Chicken], Ct value, sampling date, location, and nucleotide type [DNA], which are available in our metadata table in [`data/benchmark`](https://github.com/usegalaxy-eu/PathoGFAIR/tree/main/data/benchmark/PathoGFAIR_benchmark_Samples_metadata.tsv).
 		- For a full list of possible fields to include, see: [CZID Metadata Dictionary](https://czid.org/metadata/dictionary).
 
 - **Execution:**
@@ -116,7 +116,7 @@ This section provides detailed instructions on replicating the PathoGFAIR benchm
 
 ### Conclusion
 
-By following these steps, you can replicate our benchmarking process and assess the performance of each system in detecting and identifying pathogens from metagenomic data. For additional details, refer to our published protocol on [protocols.io]() or explore the respective systems via the links provided in [`data/benchmark`](https://github.com/usegalaxy-eu/PathoGFAIR/tree/main/data/galaxy_inputs/benchmark/PathoGFAIR_benchmark_Systems_tools_or_pipelines.tsv).
+By following these steps, you can replicate our benchmarking process and assess the performance of each system in detecting and identifying pathogens from metagenomic data. For additional details, refer to our published protocol on [protocols.io]() or explore the respective systems via the links provided in [`data/benchmark`](https://github.com/usegalaxy-eu/PathoGFAIR/tree/main/data/benchmark/PathoGFAIR_benchmark_Systems_tools_or_pipelines.tsv).
 
 ## Contributors
 
