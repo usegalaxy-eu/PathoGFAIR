@@ -116,7 +116,7 @@ This section provides detailed instructions on replicating the PathoGFAIR benchm
 
 ### Conclusion
 
-By following these steps, you can replicate our benchmarking process and assess the performance of each system in detecting and identifying pathogens from metagenomic data. For additional details, refer to our published protocol on [protocols.io]() or explore the respective systems via the links provided in [`data/benchmark`](https://github.com/usegalaxy-eu/PathoGFAIR/tree/main/data/benchmark/PathoGFAIR_benchmark_Systems_tools_or_pipelines.tsv).
+By following these steps, you can replicate our benchmarking process and assess the performance of each system in detecting and identifying pathogens from metagenomic data. For additional details, refer to our published protocol on [protocols.io]() or explore the respective systems via the links provided in [`data/benchmark`](https://github.com/usegalaxy-eu/PathoGFAIR/blob/main/data/benchmark/PathoGFAIR_benchmark%20_Systems_tools_or_pipelines.tsv).
 
 ## Contributors
 
