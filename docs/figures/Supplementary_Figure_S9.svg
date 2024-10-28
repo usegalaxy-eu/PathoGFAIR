@@ -7,9 +7,9 @@
    viewBox="0 0 566.05371 688.83447"
    version="1.1"
    id="svg13881"
-   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
-   sodipodi:docname="Figure S9_Supplementary Marerial.svg"
-   inkscape:export-filename="/home/engynasr/Desktop/GitHub/Foodborne-Project-Data-Analysis/Paper_Figures_and_Supplementary_Materials/Figure S9_Supplementary Material.png"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   sodipodi:docname="Supplementary_Figure_S9.svg"
+   inkscape:export-filename="Supplementary_Figure_S9.pdf"
    inkscape:export-xdpi="53.846481"
    inkscape:export-ydpi="53.846481"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
@@ -28,12 +28,12 @@
      inkscape:document-units="mm"
      showgrid="false"
      inkscape:zoom="0.72880595"
-     inkscape:cx="695.65842"
-     inkscape:cy="1418.0729"
-     inkscape:window-width="1850"
-     inkscape:window-height="1016"
-     inkscape:window-x="70"
-     inkscape:window-y="27"
+     inkscape:cx="1067.4995"
+     inkscape:cy="1636.9241"
+     inkscape:window-width="1920"
+     inkscape:window-height="1043"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:current-layer="layer1"
      inkscape:pageshadow="2" />
@@ -625,7 +625,7 @@
        id="text11178"><tspan
          sodipodi:role="line"
          id="tspan11176"
-         style="stroke-width:0.960001"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Helvetica;-inkscape-font-specification:'Helvetica Italic';stroke-width:0.960001"
          x="198.83958"
          y="-179.56369">Salmonella enterica</tspan></text>
     <text
@@ -636,7 +636,7 @@
        id="text11178-3"><tspan
          sodipodi:role="line"
          id="tspan11176-1"
-         style="stroke-width:0.960001"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Helvetica;-inkscape-font-specification:'Helvetica Italic';stroke-width:0.960001"
          x="198.83958"
          y="-170.98669">Campylobacter jejuni</tspan></text>
     <rect

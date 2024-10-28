@@ -7,11 +7,11 @@
    viewBox="0 0 238.29455 243.41667"
    version="1.1"
    id="svg12314"
-   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
-   sodipodi:docname="Fig7.svg"
-   inkscape:export-filename="/home/engynasr/Desktop/GitHub/Foodborne-Project-Data-Analysis/Paper Figures/Fig7-clustermap-vf-genes-abundance-palestine.png"
-   inkscape:export-xdpi="129.43822"
-   inkscape:export-ydpi="129.43822"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   sodipodi:docname="Figure_4.svg"
+   inkscape:export-filename="Figure_4.pdf"
+   inkscape:export-xdpi="314.76254"
+   inkscape:export-ydpi="314.76254"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:xlink="http://www.w3.org/1999/xlink"
@@ -29,12 +29,12 @@
      inkscape:document-units="mm"
      showgrid="true"
      inkscape:zoom="0.94"
-     inkscape:cx="398.93617"
-     inkscape:cy="548.40426"
-     inkscape:window-width="1850"
-     inkscape:window-height="1016"
-     inkscape:window-x="70"
-     inkscape:window-y="27"
+     inkscape:cx="142.55319"
+     inkscape:cy="463.82979"
+     inkscape:window-width="1920"
+     inkscape:window-height="1043"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:current-layer="layer1"
      inkscape:pageshadow="2">
@@ -167,7 +167,7 @@
        id="text6101-8-7"><tspan
          sodipodi:role="line"
          id="tspan6099-4-5"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;font-family:Helvetica;-inkscape-font-specification:Helvetica;fill:#333333;stroke-width:0.96"
+         style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.175px;font-family:Helvetica;-inkscape-font-specification:'Helvetica Bold Italic';fill:#333333;stroke-width:0.96"
          x="-346.17349"
          y="141.36754">flgB</tspan></text>
     <text
@@ -178,7 +178,7 @@
        id="text6105-8-3"><tspan
          sodipodi:role="line"
          id="tspan6103-1-6"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;font-family:Helvetica;-inkscape-font-specification:Helvetica;fill:#333333;stroke-width:0.96"
+         style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.175px;font-family:Helvetica;-inkscape-font-specification:'Helvetica Bold Italic';fill:#333333;stroke-width:0.96"
          x="-352.41556"
          y="145.67976">Cj1419c</tspan></text>
     <rect
@@ -261,7 +261,7 @@
        id="text11178"><tspan
          sodipodi:role="line"
          id="tspan11176"
-         style="stroke-width:0.96"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Helvetica;-inkscape-font-specification:'Helvetica Italic';stroke-width:0.96"
          x="-290.45789"
          y="174.3175">Salmonella enterica</tspan></text>
     <text
@@ -272,7 +272,7 @@
        id="text11178-3"><tspan
          sodipodi:role="line"
          id="tspan11176-1"
-         style="stroke-width:0.96"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Helvetica;-inkscape-font-specification:'Helvetica Italic';stroke-width:0.96"
          x="-290.45789"
          y="182.89455">Campylobacter jejuni</tspan></text>
     <text
@@ -320,7 +320,7 @@
        id="text462"><tspan
          sodipodi:role="line"
          id="tspan460"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Helvetica;-inkscape-font-specification:Helvetica;opacity:1;fill:#1a1a1a;fill-opacity:1;stroke-width:0.96"
+         style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Helvetica;-inkscape-font-specification:'Helvetica Bold Italic';opacity:1;fill:#1a1a1a;fill-opacity:1;stroke-width:0.96"
          x="-346.26877"
          y="121.97351">flaA</tspan></text>
     <text
@@ -331,7 +331,7 @@
        id="text2454"><tspan
          sodipodi:role="line"
          id="tspan2452"
-         style="stroke-width:0.96"
+         style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Helvetica;-inkscape-font-specification:'Helvetica Bold Italic';stroke-width:0.96"
          x="-347.89435"
          y="76.945435">spvC</tspan><tspan
          sodipodi:role="line"
@@ -347,7 +347,7 @@
        id="text6151"><tspan
          sodipodi:role="line"
          id="tspan6149"
-         style="stroke-width:0.96"
+         style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Helvetica;-inkscape-font-specification:'Helvetica Bold Italic';stroke-width:0.96"
          x="-347.20856"
          y="70.287209">fyuA</tspan></text>
     <text
@@ -358,7 +358,7 @@
        id="text7667"><tspan
          sodipodi:role="line"
          id="tspan7665"
-         style="stroke-width:0.96"
+         style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Helvetica;-inkscape-font-specification:'Helvetica Bold Italic';stroke-width:0.96"
          x="-343.95416"
          y="133.94452">flif</tspan></text>
     <rect
@@ -570,7 +570,7 @@
        id="text4212"><tspan
          sodipodi:role="line"
          id="tspan4210"
-         style="fill:#000000;stroke-width:0.96"
+         style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Helvetica;-inkscape-font-specification:'Helvetica Bold Italic';fill:#000000;stroke-width:0.96"
          x="-347.20221"
          y="79.877945">pefB</tspan></text>
   </g>
