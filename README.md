@@ -59,6 +59,65 @@ Welcome to the GitHub repository for the Foodborne Pathogen Detection and Tracki
 
 The [Galaxy history](https://usegalaxy.eu/u/engy.nasr/h/biolytix-datasets-analysis) includes the output of running PathoGFAIR workflows on 46 samples, sampled and sequenced by [Biolytix](https://www.biolytix.ch/en/).
 
+## Benchmarking PathoGFAIR: Replication Guide
+
+This section provides detailed instructions on replicating the PathoGFAIR benchmarking process, as outlined in our PathoGFAIR Benchmarking protocol on [protocols.io](). The focus here is on running the selected systems/pipelines used in our benchmarking.
+
+### PathoGFAIR
+
+- **Setup:**
+	Access our created [Galaxy history](https://usegalaxy.eu/u/engy.nasr/h/biolytix-datasets-analysis), which contains the benchmarking results of PathoGFAIR
+
+- **Results:**
+	- View the results directly.
+	- Rerun PathoGFAIR workflows on the same 46 samples, available under dataset number 47:biolytix_classified_samples.
+
+### CZID (IDseq)
+
+- **Setup:**
+	1. Create an Account on [CZID](https://czid.org/): We used credentials from Engy Nasr, University of Freiburg.
+	2. Create a public or private Project with the following details:
+		- Name
+		- Description
+		- Analysis Type: Metagenomics
+		- Sequencing Type: Nanopore
+	3. Upload Datasets:
+		Upload the 46 samples (total size: 7GB) either locally or from a public repository:
+		- Local upload (our recommendation): Download the samples from our published [Galaxy history](https://usegalaxy.eu/u/engy.nasr/h/biolytix-datasets-analysis) and upload them.
+		- Online upload: Use the NCBI repository PRJNA982679.
+	4. Upload or Enter Metadata:
+		Metadata fields we included are: host [Chicken], Ct value, sampling date, location, and nucleotide type [DNA], which are available in our metadata table in [`data/benchmark`](https://github.com/usegalaxy-eu/PathoGFAIR/tree/main/data/galaxy_inputs/benchmark/PathoGFAIR_benchmark_Samples_metadata.tsv).
+		- For a full list of possible fields to include, see: [CZID Metadata Dictionary](https://czid.org/metadata/dictionary).
+
+- **Execution:**
+	Sample uploads started on Tuesday, October 15th, at 9 AM. Dataset upload finished at 9:58 AM. Analysis was fully completed for all samples after: 1hour and 30 mins of the datasets finished upload.
+
+- **Results:**
+	View the analysis results: [CZID Results](https://czid.org/il2mk), use the drop down menu on the top left to switch between samples.
+
+### BugSeq
+
+- **Setup:**
+	1. Create an Account on [BugSeq](https://app.bugseq.com/register): We used credentials from Engy Nasr, University of Freiburg.
+	2. Upload datasets Upload the 46 samples (total size: 7GB) either locally or via their BaseSpace, that you have to contact them for. We uploaded them from local directory, same as explained for CZID(IDseq)
+	3. Set up parameters
+		- Platform: Nanopore
+		- Device & Chemistry: MinION/GridION/Flongle - R9.4.1
+		- Metagenomic Database: NCBI nt (BugSeq recommendation for metagenomics samples)
+		- Sample Type: Generic (BugSeq recommendation)
+		- Sequenced Material: DNA
+		- Outbreak Analysis (Genomic Relatedness Visualization): yes
+
+- **Execution:**
+	Sample uploads started on Tuesday, October 15th, at 11:30 AM. Dataset upload finished at 12:30 PM. Analysis was fully completed for all samples after: 1hour and 30 mins of the datasets finished upload.
+
+- **Results:**
+	On Tuesday, October 15th, at 15:21 PM, we received that the analysis had failed, as we have insufficient sample credits.  We sent to their support for help directly after receiving their email. They replied back that we can only analyse 10 samples not 46, so BugSeq will be removed from the benchmark.
+
+### Conclusion
+
+By following these steps, you can replicate our benchmarking process and assess the performance of each system in detecting and identifying pathogens from metagenomic data. For additional details, refer to our published protocol on [protocols.io]() or explore the respective systems via the links provided in [`data/benchmark`](https://github.com/usegalaxy-eu/PathoGFAIR/tree/main/data/galaxy_inputs/benchmark/PathoGFAIR_benchmark_Systems_tools_or_pipelines.tsv).
+
 ## Contributors
 
 - [Engy Nasr](https://orcid.org/0000-0001-9047-4215)
