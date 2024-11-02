@@ -70,7 +70,7 @@ This section provides detailed instructions on replicating the PathoGFAIR benchm
 
 - **Results:**
 	- View the results directly.
-	- Rerun PathoGFAIR workflows on the same 46 samples, available under dataset number 47:biolytix_classified_samples.
+	- [Rerun](https://github.com/usegalaxy-eu/PathoGFAIR?tab=readme-ov-file#how-to-run-the-workflows) PathoGFAIR workflows on the same 46 samples, available under dataset number 47:biolytix_classified_samples.
 
 ### CZID (IDseq)
 
