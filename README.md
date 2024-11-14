@@ -61,7 +61,7 @@ The [Galaxy history](https://usegalaxy.eu/u/engy.nasr/h/biolytix-datasets-analys
 
 ## Benchmarking PathoGFAIR: Replication Guide
 
-This section provides detailed instructions on replicating the PathoGFAIR benchmarking process, as outlined in our PathoGFAIR Benchmarking protocol on [protocols.io](https://www.protocols.io/private/8F4D8BBE951211EFB0630A58A9FEAC02). The focus here is on running the selected systems/pipelines used in our benchmarking.
+This section provides detailed instructions on replicating the PathoGFAIR benchmarking process, as outlined in our PathoGFAIR Benchmarking protocol on [protocols.io](dx.doi.org/10.17504/protocols.io.e6nvwbp4zvmk/v1). The focus here is on running the selected systems/pipelines used in our benchmarking.
 
 ### PathoGFAIR
 
@@ -116,7 +116,7 @@ This section provides detailed instructions on replicating the PathoGFAIR benchm
 
 ### Conclusion
 
-By following these steps, you can replicate our benchmarking process and assess the performance of each system in detecting and identifying pathogens from metagenomic data. For additional details, refer to our published protocol on [protocols.io](https://www.protocols.io/private/8F4D8BBE951211EFB0630A58A9FEAC02) or explore the respective systems via the links provided in [`data/benchmark`](https://github.com/usegalaxy-eu/PathoGFAIR/blob/main/data/benchmark/PathoGFAIR_benchmark_systems_tools_or_pipelines.tsv).
+By following these steps, you can replicate our benchmarking process and assess the performance of each system in detecting and identifying pathogens from metagenomic data. For additional details, refer to our published protocol on [protocols.io](dx.doi.org/10.17504/protocols.io.e6nvwbp4zvmk/v1) or explore the respective systems via the links provided in [`data/benchmark`](https://github.com/usegalaxy-eu/PathoGFAIR/blob/main/data/benchmark/PathoGFAIR_benchmark_systems_tools_or_pipelines.tsv).
 
 ## Contributors
 
