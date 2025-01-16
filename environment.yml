@@ -1,0 +1,17 @@
+name: pathogfair
+channels:
+  - conda-forge
+  - bioconda
+dependencies:
+  - jupyter
+  - openpyxl
+  - matplotlib
+  - numpy
+  - pandas
+  - python=3.13.1
+  - requests
+  - seaborn
+  - scikit-learn
+  - scipy
+  - pip:
+      - clustergrammer2
