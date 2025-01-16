@@ -224,3 +224,8 @@ All sources for the figures and tables in the paper can be found in this GitHub 
 #### Tables
 
 - Table 1: Comparison of features between PathoGFAIR and other similar pipelines or systems
+- Supplemantary Table T1: source in `docs/tables/Supplementary_Table_T1.tsv`
+- Supplemantary Table T2: source in `docs/tables/Supplementary_Table_T2.tsv`
+- Supplemantary Table T3: source in `docs/tables/Supplementary_Table_T3.tsv`
+- Supplemantary Table T4: source in `docs/tables/Supplementary_Table_T4.tsv`
+
