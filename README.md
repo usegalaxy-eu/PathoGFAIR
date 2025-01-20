@@ -143,6 +143,7 @@ To reproduce the figures in `results`, we need to run the notebooks `bin` and th
 - seaborn
 - scikit-learn
 - scipy
+- upsetplot
 - clustergrammer2
 
 This can be installed with a conda environment:

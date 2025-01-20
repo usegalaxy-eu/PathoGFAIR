@@ -13,5 +13,6 @@ dependencies:
   - seaborn
   - scikit-learn
   - scipy
+  - upsetplot
   - pip:
       - clustergrammer2
