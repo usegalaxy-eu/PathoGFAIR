@@ -230,3 +230,8 @@ All sources for the figures and tables in the paper can be found in this GitHub 
 - Supplemantary Table T3: source in `docs/tables/Supplementary_Table_T3.tsv`
 - Supplemantary Table T4: source in `docs/tables/Supplementary_Table_T4.tsv`
 
+## License
+
+The content of the `data` and `docs` folders is licensed under the [Creative Commons Zero (CC0)](https://creativecommons.org/public-domain/cc0/).
+
+The rest are licensed under the [MIT License](LICENSE.md)
